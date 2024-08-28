@@ -1,4 +1,5 @@
-mysql
-nginx
-rabbitmq:3.13.7-managentment
-zookeeper
+#mysql
+#nginx
+#zookeeper
+rabbitmq:3.13.7-management
+
