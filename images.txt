@@ -1,6 +1,4 @@
 mysql
 nginx
-rabbitmq
+rabbitmq:3.13.7-managentment
 zookeeper
-kafka
-rocketmq
