@@ -1,5 +1,6 @@
 #mysql
 #nginx
 #zookeeper
-rabbitmq:3.13.7-management
+#rabbitmq:3.13.7-management
+redis
 
